@@ -5,3 +5,19 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 it's have only the files you wont to commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+by add files that changed and have same purpuse.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+when you have to fix a bug or add another version test or demon, it will let you do that
+with out warry about you main or another branches.
+
+How do the diagrams help you visualize the branch structure?
+let me see each change on branch and link bettween all branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+give you new branch have all commits in two branchs, to see the link between commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
